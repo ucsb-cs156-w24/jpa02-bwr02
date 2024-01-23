@@ -1,7 +1,7 @@
 # jpa02-bwr02
 
 
-Repo: https://github.com/ucsb-cs156-w24/jpa02-bwr02.git
+Repo: https://github.com/ucsb-cs156-w24/jpa02-bwr02
 
 * TODO: Correct the "deployed at" link to app on Dokku
   then delete this TODO.  Replace it with 
